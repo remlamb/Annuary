@@ -7,8 +7,6 @@ int main()
 {
 
 	Repertory rep;	
-	//trouver comment lowercase les strings pour moins d erreur a la recherche 
-
 	rep.startAnnuary();
 
 }
